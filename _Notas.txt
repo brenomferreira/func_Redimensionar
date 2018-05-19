@@ -1,0 +1,1 @@
+Ainda falta arrumar para n ser utilizado em porcentagem
